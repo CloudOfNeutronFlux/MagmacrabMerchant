@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<objects>
+
+	<object Name="Hamilcrab" Load="Merge">
+		<part Name="ConversationScript" ConversationID="HamilcrabConvo"/>
+	</object>
+</objects>
