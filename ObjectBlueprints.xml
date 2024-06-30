@@ -3,5 +3,6 @@
 
 	<object Name="Hamilcrab" Load="Merge">
 		<part Name="ConversationScript" ConversationID="HamilcrabConvo"/>
+		<part Name="GenericInventoryRestocker" Table="HamilcrabInventory"/>
 	</object>
 </objects>
